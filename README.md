@@ -20,23 +20,22 @@ Currently researching **image processing** and **AI technologies**, with a plan 
 ## 💻 Skills
 
 ### 👨‍💻 Programming
-![](https://skillicons.dev/icons?i=python,java,c,cpp,php,html.javascript,css)
+![](https://skillicons.dev/icons?i=python,java,c,cpp,php,html,js,css)
 - Python (PyTorch / OpenCV / NumPy)
 - Java
 - C / C++
 - PHP / JavaScript / HTML / CSS
 
 ### 🛠 Web Development
-![](https://skillicons.dev/icons?i=linux,apache,mysql,php)
 - LAMP stack (Linux, Apache, MySQL, PHP)
 - Basic full-stack web application development
 
 ### ☁️ Others
+![](https://skillicons.dev/icons?i=linux,mysql,aws)
 - Git / GitHub
 - Linux / Apache Server
+- MySQL
 - AWS (EC2, S3)
-- Terraform (basic usage)
-
 ---
 
 ## 📫 Contact

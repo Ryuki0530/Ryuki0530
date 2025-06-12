@@ -20,6 +20,7 @@ Currently researching **image processing** and **AI technologies**, with a plan 
 ## 💻 Skills
 
 ### 👨‍💻 Programming
+![](https://skillicons.dev/icons?i=html,python,java,c,c++,php)
 - Python (PyTorch / OpenCV / NumPy)
 - Java
 - C / C++

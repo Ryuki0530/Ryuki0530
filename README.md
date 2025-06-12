@@ -35,19 +35,11 @@ Currently researching **image processing** and **AI technologies**, with a plan 
 - AWS (EC2, S3)
 - Terraform (basic usage)
 
-
-
-## 📈 Contributions in the Last Year
-
-[![Ryuki0530's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ryuki0530&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ## 📫 Contact
 
-- 📧 Email: *(your_email@example.com)*
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle) *(optional)*
-- 🌐 Portfolio: *(if available)*
+- 📧 Email: *(ryukifujita0530@gmail.com)*
 
 ---
 

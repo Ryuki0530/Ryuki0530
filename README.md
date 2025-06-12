@@ -35,28 +35,7 @@ Currently researching **image processing** and **AI technologies**, with a plan 
 - AWS (EC2, S3)
 - Terraform (basic usage)
 
----
 
-## 📌 Pinned Projects
-
-### 🔗 [copla](https://github.com/Ryuki0530/copla)
-> A university SNS platform built using PHP and JavaScript.  
-> Implements post, reply, and like features with a focus on maintainable code design.
-
-### 🔗 [esp32-smart-remote](https://github.com/Ryuki0530/esp32-smart-remote)
-> IoT remote controller using ESP32, IR sensors, and a smartphone-accessible web interface.
-
-### 🔗 [vallex-gui](https://github.com/Ryuki0530/vallex-gui)
-> A tkinter-based GUI for voice synthesis using VALL-E-X and PyInstaller packaging.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryuki0530&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuki0530&layout=compact&theme=github_dark&hide_border=true)
-
----
 
 ## 📈 Contributions in the Last Year
 

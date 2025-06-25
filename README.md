@@ -37,7 +37,7 @@ Currently researching **image processing** and **AI technologies**, with a plan 
 - MySQL
 - AWS (EC2, S3)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuki0530)](https://github.com/anuraghazra/github-readme-stats)
 ## 📫 Contact
 
 - 📧 Email: *(ryukifujita0530@gmail.com)*

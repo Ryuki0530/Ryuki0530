@@ -32,7 +32,6 @@ Currently researching **image processing** and **AI technologies**, with a plan 
 
 ### ☁️ Others
 ![](https://skillicons.dev/icons?i=linux,mysql,aws)
-- Git / GitHub
 - Linux / Apache Server
 - MySQL
 - AWS (EC2, S3)

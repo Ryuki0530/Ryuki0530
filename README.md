@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Ryuki0530!
 
-I'm a 4th-year undergraduate student at **Tokyo Denki University**, Faculty of Science and Engineering,  
-Department of Information System Design.
+東京電機大学 理工学部 情報システムデザイン学系 卒業。
+同大学大学院 理工学研究科所属。
 
-Currently researching **image processing** and **AI technologies**, with a plan to enter the  
-**Graduate School of Science and Engineering (Information Course)** at Tokyo Denki University.
+画像処理・AI × ロボティクスを中心に研究しています。
 
 ---
 

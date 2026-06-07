@@ -13,7 +13,6 @@
 - **OS**: Linux, Windows32API, 自作x86_64 OS (MikanOSベースのカーネル構造・ハードウェア制御)
 - **ミドルウェア**: ROS 2 (Jazzy/Humble)による分散制御システム
 - **言語、低レイヤー開発技術**: C, C++, アセンブラ(x86_64), EDK2, etc
-![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,nodejs,python,docker)
 
 ### AI
 - **モデル**: VLA (Vision-Language-Action) モデル, 画像や動画に関するCNN・GRU・LSTMモデル実装 , etc. 

@@ -1,46 +1,72 @@
-# 👋 Hi, I'm Ryuki0530!
+# Ryuki Fujita
 
-東京電機大学 理工学部 情報システムデザイン学系 卒業。
+東京電機大学大学院 修士課程に在籍し、AI（VLAモデル）と組込みシステムを融合したロボティクス分野について研究しています。
+並行して、国内有数の組込みOSベンダーでの長期インターンや学内プロジェクトのリードを通じ、低レイヤー、リアルタイムシステム、並行・分散コンピューティングの実践的な知見を蓄積しています。
 
-同大学大学院 理工学研究科 情報学専攻 修士課程1年
-
-画像処理・AI × ロボティクスを中心に研究しています。
-
----
-
-## 🔍 Research Interests
-
-- 🎯 Image Processing
-- 🧠 Artificial Intelligence
-- 🤖 Human-object interaction & behavior recognition
-- 📹 Egocentric video analysis
+現在、SDV（Software Defined Vehicle）の基盤を支える次世代の車載OS、ミドルウェア、通信アーキテクチャのインフラ開発領域を志望しています。
 
 ---
 
-## 💻 Skills
+## 技術領域と経験
 
-### 👨‍💻 Programming
-![](https://skillicons.dev/icons?i=python,java,c,cpp,php,html,js,css)
-- Python (PyTorch / OpenCV / NumPy)
-- Java
-- C / C++
-- PHP / JavaScript / HTML / CSS
+###　OS & ミドルウェア
+- **OS **: Linux, Windows32API, 自作x86_64 OS (MikanOSベースのカーネル構造・ハードウェア制御)
+- **ミドルウェア**: ROS 2 (Jazzy/Humble)による分散制御システム
+- **言語、低レイヤー開発技術**: C, C++, アセンブラ(x86_64), EDK2, etc
+![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,nodejs,python,docker)
 
-### 🛠 Web Development
-- LAMP stack (Linux, Apache, MySQL, PHP)
-- Basic full-stack web application development
+### AI
+- **モデル**: VLA (Vision-Language-Action) モデル, 画像や動画に関するCNN・GRU・LSTMモデル実装 , etc. 
+- **フレームワーク**: PyTorch, NumPy, Keras, LeRobot
 
-### ☁️ Others
-![](https://skillicons.dev/icons?i=linux,mysql,aws)
-- Linux / Apache Server
-- MySQL
-- AWS (EC2, S3)
+### WEB開発・クラウド・その他
+- **WEB言語**: PHP, JavaScript, Python, HTML/CSS
+- **WEBフレームワーク**: Laravel, React
+- **インフラ**: AWS (EC2, S3, RDS, Lambda), Terraform, Docker, Git
+- **データベース**: MySQL
+- **組込み**: Arduino, ESP32, etc. 
+
+### 資格
+- 基本情報技術者試験 (AP) 合格
+- 応用情報技術者試験 (AP) 合格
+
+---
+
+## 職務・プロジェクト経験 (Experience & Projects)
+
+### 1. 学部課程研究 | 機械学習モデルの軽量化と汎化
+一人称視点映像における頭部・視線運動連動性に基づく注視点推定モデルの構築
+- **概要**: 従来手法における「複雑な機械学習モデルへの依存による計算コストの肥大化」および「特定タスクへの過学習（汎化性の低さ）」の解決。人間の頭部運動と視線運動の生理的な連動性という基礎的なバイアスに着目した、タスク非依存型の注視点推定アルゴリズムを提案。
+- **成果**: 従来手法と比較して計算リソースの節約に成功。さらに、特定の実験環境下において、不要な文脈的情報に惑わされることなく正確な推定が可能となり、従来手法を上回る高いパフォーマンスを達成。
+
+### 2. 修士課程研究 | AI×組込みシステムの要件予見
+**VLAを用いたE2Eロボットアーム制御モデルの研究**
+- **概要**: 視覚・言語情報から直接動作を出力するAIを用いたロボットアーム制御について、実用を見据えた改善を行う研究。
+- **目的**: 非決定論的な出力を返すAIモデルの推論結果を、ユーザーの意図通り且つ安全に機械制御に落とし込むために必要な構造やシステム設計の提案と評価。
+- **技術**: LeRobot, ROS 2, etc.
+
+### 3. ハッカソン LINEヤフー主催「Hack U」
+**ゲーミフィケーション作業支援ツールの開発**
+- **役割**: 技術リード、システム設計。IPCを含んだソフトウェア内の機能間連携のための基盤構築。
+- **技術**: Unity, Python, ctypes, dlib, Windows32API, Qt, etc. 
+- **貢献**: 限られた時間内で多くの機能を実装するための、破綻しない拡張性の高いベースフレームワークを構築。チーム全体のタスク分割と技術選定を主導。
+- **成果**: HappyHacking賞受賞
+
+### 4. 学内SNS開発プロジェクト
+**学内向けコミュニティプラットフォームの開発・運用**
+- **役割**: 技術リード
+- **技術**: LAMPスタックによるWEBアプリケーション構築
+- **概要**: DB設計、バックエンド、クラウドサービスを用いたインフラ構築、フロントエンドとの連携設計を統括。開発陣のコードレビューや技術選定における意思決定を担当。
+
+### 5. 組み込みシステム開発企業でのインターンシップ
+ROS 2を用いたR&Dプロジェクトへの参加
+- **概要**: 高度な分散システム環境におけるロボット制御。
+- **技術**: ROS 2を採用したリアルタイム通信・タスク制御のノード実装。DDSと制御に関するアーキテクチャ設計思想を習得中。
+---
+
+
 ---
 
 ## 📫 Contact
-
-- 📧 Email: *(ryukifujita0530@gmail.com)*
-
----
-
-_Thanks for visiting my profile!_
+- **Email**: ryukifujita0530@gmail.com
+- **ポートフォリオ**: http://als0079-aws-s3.s3-website-ap-northeast-1.amazonaws.com/
